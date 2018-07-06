@@ -7,7 +7,7 @@ public class Main {
     {
 
 System.out.println("This is your name:" + "Bruck");
-        System.out.println("This is your age:" + 33);
+        System.out.println("This is your age:" );
 
         }
 
